@@ -6,4 +6,4 @@ python train.py --config-file configs/vgg_ssd300_voc0712.yaml
 python train_grid.py --config-file configs/vgg_ssd300_voc0712.yaml
 python train_labels_grid.py --config-file configs/vgg_ssd300_voc0712_labels_grid.yaml
 ```
-# more details, please refer to [lufficc/SSD](https://github.com/lufficc/SSD)
+# more details, please refer to [lufficc/SSD](https://github.com/lufficc/SSD) and [Jia-Research-Lab/GridMask](https://github.com/Jia-Research-Lab/GridMask)
